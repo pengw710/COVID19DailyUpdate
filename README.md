@@ -8,7 +8,7 @@ Using case count data to support the needs of multiple stakeholder groups.
 
 Summaries of this data for two different purposes and audiences, with a focus on trends over time.  
 
-The three stakeholder groups are as follows:  
+The two stakeholder groups are as follows:  
 
 1 The Public
 
